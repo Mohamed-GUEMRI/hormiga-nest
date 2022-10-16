@@ -1,0 +1,49 @@
+nav {
+  font-size: 20px;
+}
+
+nav img {
+  padding: 0;
+  margin: 0;
+  width:50px;
+}
+
+ul{
+  margin-left: 250px;
+}
+
+ul li{
+  margin-left:40px;
+  list-style-type: none;
+}
+
+ul li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#dropdown-menu {
+  background-color: #070844;
+  border: none;
+}
+
+#dropdown-menu a:hover{
+  background-color: #fff;
+  color: #070844;
+}
+
+.lang{
+  width:10px;
+}
+
+button{
+  background: rgb(12,75,138);
+  background: linear-gradient(90deg, rgba(12,75,138,1) 0%, rgba(0,197,161,0.958420868347339) 57%);
+  padding: 3px 25px 3px 25px;
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 0;
+  margin-left: 150px;
+  margin-top: 15px;
+}

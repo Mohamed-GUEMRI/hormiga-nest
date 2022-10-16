@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 100%;
+  display: block;
+  color: #fff;
+}
+
+#landscape{
+  margin: 0;
+  padding: 0;
+  width: 50%;
+}
+
+#boat{
+  float: right;
+}
+.txt{
+  width: 40%;
+  margin-left:150px;
+  margin-top: 13%;
+  float: left;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.txt h1{
+  font-size: 3em;
+  font-weight: bold;
+
+}
+
+.txt button{
+  color: #070844;
+  padding: 10px 0px 10px 10px;
+  font-size: 2em;
+  text-transform: uppercase;
+  border-radius: 18px;
+  background-color: #fff;
+  border: 0;
+}
+
+.txt .arrow{
+  color: #fff;
+  background: rgb(12,75,138);
+  background: linear-gradient(90deg, rgba(12,75,138,1) 0%, rgba(0,197,161,0.958420868347339) 57%);
+  padding: 20px;
+  margin: 0;
+  border-radius: 20px;
+}
+
